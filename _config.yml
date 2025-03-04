@@ -22,7 +22,7 @@ repository               : "qixuanlo/QiXuanLo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   name             : "Qi Xuan Lo"
   pronouns         :  # example: "she/her"  
   bio              : "Master Student, BIT"
